@@ -1,0 +1,42 @@
+{
+  "name": "midnight-sky",
+  "displayName": "Midnight Sky",
+  "description": "Imagine yourself coding late at night. This theme's all about calm, deep blue colors. It's like working under a starry sky. Helps your eyes relax and keeps things clear. Perfect for those quiet, creative coding sessions.",
+  "version": "0.0.1",
+  "publisher": "MidnightSky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZeeshanMukhtar1/midnight-sky"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "blue",
+    "high contrast",
+    "aesthetic",
+    "blueish",
+    "midnight",
+    "sky",
+    "stars",
+    "night",
+    "calm",
+    "relax",
+    "creative",
+    "coding"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Sky",
+        "uiTheme": "hc-black",
+        "path": "./themes/Midnight Sky-color-theme.json"
+      }
+    ]
+  }
+}
