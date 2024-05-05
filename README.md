@@ -23,7 +23,7 @@ You can install Midnight Sky via the [Visual Studio Code Marketplace](https://ma
 
 ## Theme Preview
 
-![Midnight Sky Preview](./images/midnight-sky-preview.png)
+![Midnight Sky Preview](./images//midnight-sky-preview.png)
 
 _Screenshot showcasing the Midnight Sky theme with JSX syntax highlighting._
 
@@ -56,6 +56,3 @@ We welcome new contributors. Midnight Sky is a community-driven project, and we 
 <a href="https://github.com/ZeeshanMukhtar1/midnight-sky/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ZeeshanMukhtar1/midnight-sky" />
 </a>
-```
-
-This README provides a clear structure with an index at the top for quick navigation. Each section is well-defined, and badges are added for better visibility. Let me know if you need further adjustments!
