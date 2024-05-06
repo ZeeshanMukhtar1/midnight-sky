@@ -2,6 +2,7 @@
   "name": "midnight-sky",
   "displayName": "Midnight Sky",
   "description": "A calming, deep blue theme for Visual Studio Code, perfect for late-night coding sessions.🌙",
+  "icon": "./images/icon.png",
   "version": "0.0.2",
   "publisher": "MidnightSky",
   "repository": {
